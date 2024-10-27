@@ -1,3 +1,11 @@
+
+# My Django Project
+
+This is a simple Django project that displays a context page.
+
+## Project Structure
+
+```
 my_django_project/
 │
 ├── my_django_project/         # Main project directory
@@ -22,13 +30,7 @@ my_django_project/
 │
 └── manage.py                  # Django management script
 
-# My Django Project
-
-This is a simple Django project that displays a context page.
-
-## Project Structure
-
-
+```
 ## Getting Started
 
 ### Prerequisites
